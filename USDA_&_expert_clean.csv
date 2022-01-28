@@ -1,0 +1,93 @@
+year,state,state_id,FAO_region,envt,spp_n_usda,usda_usd_2018inflation,usda_usd_nohybrid_2018inflation,usda_wt_lb,prop_farms_salt,usda_num_SALTfarms,usda_SALTacres,spp_n_fao,n_spp_expt,expt_wt_lb,expt_usd_2018inflation
+1998,Alaska,AK,"Pacific, Northeast",marine,4,25611587.97,25611587.97,NA,0.69,27,104,14,3,32897,741589.30
+1998,Alabama,AL,"Atlantic, Western Central",marine,4,0.00,0.00,NA,NA,NA,NA,3,NA,NA,NA
+1998,California,CA,"Pacific, Eastern Central",marine,4,1995319.16,1995319.16,NA,0.13,16,1978,NA,3,1513152,6492265.36
+1998,Connecticut,CT,"Atlantic, Northwest",marine,2,0.00,0.00,NA,0.65,15,36376,4,2,0,21703212.85
+1998,Delaware,DE,"Atlantic, Northwest",marine,0,0.00,0.00,NA,NA,NA,NA,4,NA,NA,NA
+1998,Florida,FL,"Atlantic, Western Central",marine,6,16802649.47,14702081.55,NA,0.5,226,1353,3,14,733936,9440152.13
+1998,Georgia,GA,"Atlantic, Western Central",marine,2,11301.69,0.00,NA,NA,NA,NA,3,NA,NA,NA
+1998,Hawaii,HI,"Pacific, Eastern Central",marine,1,2633954.25,2633954.25,NA,0.35,30,311,NA,NA,NA,NA
+1998,Louisiana,LA,"Atlantic, Western Central",marine,1,0.00,0.00,NA,0,2, NA,3,NA,NA,NA
+1998,Massachusetts,MA,"Atlantic, Northwest",marine,5,3820219.13,3820219.13,NA,0.86,96,519,4,NA,NA,NA
+1998,Maryland,MD,"Atlantic, Northwest",marine,3,1224615.75,0.00,NA,0.17,9, NA,4,NA,NA,NA
+1998,Maine,ME,"Atlantic, Northwest",marine,4,99659655.25,99659655.25,NA,0.43,28,1068,4,4,61131723,93399684.96
+1998,Mississippi,MI,"Atlantic, Western Central",marine,2,0.00,0.00,NA,NA,NA,NA,3,NA,NA,NA
+1998,North Carolina,NC,"Atlantic, Western Central",marine,4,2739374.06,0.00,NA,0.1,15, NA,3,NA,NA,NA
+1998,New Hampshire,NH,"Atlantic, Northwest",marine,1,0.00,0.00,NA,NA,NA,NA,4,NA,NA,NA
+1998,New Jersey,NJ,"Atlantic, Northwest",marine,5,2424825.14,2424825.14,NA,0.5,14,1402,4,NA,NA,NA
+1998,New York,NY,"Atlantic, Northwest",marine,3,0.00,0.00,NA,0.06,3, NA,4,NA,NA,NA
+1998,Oregon,OR,"Pacific, Northeast",marine,3,3003754.18,3003754.18,NA,0.26,9,1959,14,NA,NA,NA
+1998,Rhode Island,RI,"Atlantic, Northwest",marine,2,0.00,0.00,NA,0.67,2, NA,4,2,0,269675.00
+1998,South Carolina,SC,"Atlantic, Western Central",marine,4,409389.77,275427.55,NA,0.33,9, NA,3,NA,NA,NA
+1998,Texas,TX,"Atlantic, Western Central",marine,3,12962392.72,12962392.72,NA,0.12,10,1726,3,1,3400000,0.00
+1998,Virginia,VA,"Atlantic, Northwest",marine,5,28304084.81,28244819.49,NA,NA,NA,NA,4,NA,NA,NA
+1998,Washington,WA,"Pacific, Northeast",marine,4,40394630.58,40394630.58,NA,0.73,66,11651,14,15,14127644,33412991.39
+2005,Alaska,AK,"Pacific, Northeast",marine,12,1132374.44,1132374.44,252350,0.96,25,148,12,3,45458,873507.78
+2005,Alabama,AL,"Atlantic, Western Central",marine,7,1622932.00,1622932.00,225000,0.01,2, NA,4,NA,NA,NA
+2005,California,CA,"Pacific, Eastern Central",marine,22,29732157.96,29732157.96,3976173,0.19,22,6002,1,3,437929,8651003.02
+2005,Connecticut,CT,"Atlantic, Northwest",marine,7,44500772.29,44500772.29,16300620,0.9,27,62959,4,2,0,21955978.31
+2005,Delaware,DE,"Atlantic, Northwest",marine,0,0.00,0.00,NA,NA,NA,NA,4,NA,NA,NA
+2005,Florida,FL,"Atlantic, Western Central",marine,16,16103758.82,12583693.90,16798430,0.45,163,718,4,15,217909,2308153.95
+2005,Georgia,GA,"Atlantic, Western Central",marine,3,0.00,0.00,NA,0.01,1, NA,4,NA,NA,NA
+2005,Hawaii,HI,"Pacific, Eastern Central",marine,19,5204407.28,5204407.28,418300,0.51,30,254,1,1,57320,167.18
+2005,Louisiana,LA,"Atlantic, Western Central",marine,5,36649527.53,36649527.53,113311796,0.15,135,215770,4,NA,NA,NA
+2005,Massachusetts,MA,"Atlantic, Northwest",marine,14,7042206.73,7042206.73,3341689,0.89,140,1108,4,2,1902458,3630469.31
+2005,Maryland,MD,"Atlantic, Northwest",marine,11,101212.06,101212.06,219018,0.87,75,238,4,NA,NA,NA
+2005,Maine,ME,"Atlantic, Northwest",marine,15,9251303.96,9251303.96,3492357,0.8,40,585,4,6,33727577,32203997.84
+2005,Mississippi,MI,"Atlantic, Western Central",marine,2,0.00,0.00,NA,0,1, NA,4,NA,NA,NA
+2005,North Carolina,NC,"Atlantic, Western Central",marine,15,17939793.88,1533823.77,6093464,0.31,57,707,4,NA,NA,NA
+2005,New Hampshire,NH,"Atlantic, Northwest",marine,6,0.00,0.00,NA,0.6,6,70,4,NA,NA,NA
+2005,New Jersey,NJ,"Atlantic, Northwest",marine,10,3626937.95,3626937.95,2610236,0.8,70,4466,4,NA,NA,NA
+2005,New York,NY,"Atlantic, Northwest",marine,9,5162443.81,5162443.81,1581500,0.24,13, NA,4,NA,NA,NA
+2005,Oregon,OR,"Pacific, Northeast",marine,11,10006056.07,10006056.07,5115094,0.45,21,2425,12,NA,NA,NA
+2005,Rhode Island,RI,"Atlantic, Northwest",marine,11,1048087.43,1048087.43,348233,0.92,11,51,4,2,0,957194.23
+2005,South Carolina,SC,"Atlantic, Western Central",marine,14,11035432.20,10670979.80,3013376,0.53,45,1531,4,NA,NA,NA
+2005,Texas,TX,"Atlantic, Western Central",marine,9,27168471.95,20673657.55,9671170,0.2,19,2432,4,1,6831238,0.00
+2005,Virginia,VA,"Atlantic, Northwest",marine,17,75591548.10,75591548.10,46059320,NA,NA,NA,4,1,12940.69,81853.82
+2005,Washington,WA,"Pacific, Northeast",marine,26,204768456.70,204768456.70,40137831,0.9,175,13269,12,14,24891543,49897913.26
+2013,Alaska,AK,"Pacific, Northeast",marine,5,695241.18,582791.59,NA,1,22,94,14,2,1889,778513.27
+2013,Alabama,AL,"Atlantic, Western Central",marine,3,1470691.68,1470691.68,NA,0.04,6,121,4,NA,NA,NA
+2013,California,CA,"Pacific, Eastern Central",marine,10,10647568.78,10647568.78,NA,0.27,33,5573,1,3,1235795,22672522.95
+2013,Connecticut,CT,"Atlantic, Northwest",marine,2,30504587.50,30504587.50,NA,0.89,25,42625,4,NA,NA,NA
+2013,Delaware,DE,"Atlantic, Northwest",marine,2,0.00,0.00,NA,NA,NA,NA,4,NA,NA,NA
+2013,Florida,FL,"Atlantic, Western Central",marine,13,21466047.99,20189952.55,NA,0.43,169,1078,4,8,235303,1189969.70
+2013,Georgia,GA,"Atlantic, Western Central",marine,5,125048.00,125048.00,NA,0.1,6,1220,4,NA,NA,NA
+2013,Hawaii,HI,"Pacific, Eastern Central",marine,6,16182733.34,16182733.34,NA,0.36,16,751,1,1,881848,2587.20
+2013,Louisiana,LA,"Atlantic, Western Central",marine,6,28816898.73,28816898.73,NA,0.1,48,103159,4,NA,NA,NA
+2013,Massachusetts,MA,"Atlantic, Northwest",marine,10,13670462.96,13670462.96,NA,0.92,133,658,4,2,3213656,10736719.38
+2013,Maryland,MD,"Atlantic, Northwest",marine,6,0.00,0.00,NA,0.67,12,702,4,2,0,1822806.37
+2013,Maine,ME,"Atlantic, Northwest",marine,4,1980989.93,1980989.93,NA,0.71,25,999,4,3,43011549,5456657.38
+2013,Mississippi,MI,"Atlantic, Western Central",marine,2,72980.60,72980.60,NA,NA,NA,NA,4,NA,NA,NA
+2013,North Carolina,NC,"Atlantic, Western Central",marine,5,10104393.68,362953.98,NA,0.18,26,286,4,3,317400,2820048.00
+2013,New Hampshire,NH,"Atlantic, Northwest",marine,1,0.00,0.00,NA,0.14,1, NA,4,1,0,61073.44
+2013,New Jersey,NJ,"Atlantic, Northwest",marine,5,11106571.48,11106571.48,NA,0.85,50,16958,4,2,0,2569118.71
+2013,New York,NY,"Atlantic, Northwest",marine,6,0.00,0.00,NA,0.36,16,2233,4,NA,NA,NA
+2013,Oregon,OR,"Pacific, Northeast",marine,5,11377785.50,11377785.50,NA,0.46,17,3539,14,1,0,1942358.64
+2013,Rhode Island,RI,"Atlantic, Northwest",marine,5,0.00,0.00,NA,1,21,97,4,3,6250,4532619.17
+2013,South Carolina,SC,"Atlantic, Western Central",marine,7,2175867.54,2175867.54,NA,0.31,10,809,4,1,0,0.00
+2013,Texas,TX,"Atlantic, Western Central",marine,4,27676388.74,0.00,NA,0.14,14,1635,4,2,5726187,9702000.00
+2013,Virginia,VA,"Atlantic, Northwest",marine,6,44788328.97,44760928.37,NA,NA,NA,NA,4,1,856471.19,5903544.10
+2013,Washington,WA,"Pacific, Northeast",marine,16,293669053.20,293669053.20,NA,0.9,128,15283,14,16,34871148,99229535.86
+2018,Alaska,AK,"Pacific, Northeast",marine,5,1724000.00,1724000.00,NA,1,38,249,8,3,90549,1411084.00
+2018,Alabama,AL,"Atlantic, Western Central",marine,3,74000.00,74000.00,NA,0.03,4, NA,3,1,0,0.00
+2018,California,CA,"Pacific, Eastern Central",marine,8,60133000.00,57481000.00,NA,0.23,21,8354,1,3,1265578,8713577.00
+2018,Connecticut,CT,"Atlantic, Northwest",marine,5,0.00,0.00,NA,0.68,26,26884,4,NA,NA,NA
+2018,Delaware,DE,"Atlantic, Northwest",marine,1,0.00,0.00,NA,1,1, NA,4,NA,NA,NA
+2018,Florida,FL,"Atlantic, Western Central",marine,14,16266000.00,15552000.00,NA,0.55,178,869,3,9,30086,247545.00
+2018,Georgia,GA,"Atlantic, Western Central",marine,4,0.00,0.00,NA,0.08,3, NA,3,NA,NA,NA
+2018,Hawaii,HI,"Pacific, Eastern Central",marine,9,0.00,0.00,NA,0.47,23,573,1,NA,NA,NA
+2018,Louisiana,LA,"Atlantic, Western Central",marine,5,58016000.00,58016000.00,NA,0.06,30,141584,3,1,6418.24,130039.00
+2018,Massachusetts,MA,"Atlantic, Northwest",marine,8,25571000.00,25571000.00,NA,0.96,161,693,4,2,8134834,26561513.00
+2018,Maryland,MD,"Atlantic, Northwest",marine,7,3651000.00,3651000.00,NA,0.7,28,1770,4,1,0,4755805.00
+2018,Maine,ME,"Atlantic, Northwest",marine,10,7271000.00,7271000.00,NA,0.86,56,1219,4,3,2179814,11289537.00
+2018,Mississippi,MI,"Atlantic, Western Central",marine,1,0.00,0.00,NA,NA,NA,NA,3,NA,NA,NA
+2018,North Carolina,NC,"Atlantic, Western Central",marine,5,9474000.00,1328000.00,NA,0.31,39,278,3,3,234500,3729800.00
+2018,New Hampshire,NH,"Atlantic, Northwest",marine,4,542000.00,542000.00,NA,0.91,21,79,4,1,0,311039.22
+2018,New Jersey,NJ,"Atlantic, Northwest",marine,3,6434000.00,6434000.00,NA,0.81,42, NA,4,NA,NA,NA
+2018,New York,NY,"Atlantic, Northwest",marine,6,0.00,0.00,NA,0.43,21,2102,4,1,0,0.00
+2018,Oregon,OR,"Pacific, Northeast",marine,7,19637000.00,19637000.00,NA,0.39,15,676,8,1,0,2256091.60
+2018,Rhode Island,RI,"Atlantic, Northwest",marine,4,5008000.00,5008000.00,NA,1,27,286,4,1,0,6094199.00
+2018,South Carolina,SC,"Atlantic, Western Central",marine,6,1826000.00,1826000.00,NA,0.61,14, NA,3,1,260974.07,647519.97
+2018,Texas,TX,"Atlantic, Western Central",marine,4,19403000.00,19403000.00,NA,0.16,15,2092,3,NA,NA,NA
+2018,Virginia,VA,"Atlantic, Northwest",marine,6,94325000.00,94308000.00,NA,NA,NA,NA,4,2,589984.53,4744415.10
+2018,Washington,WA,"Pacific, Northeast",marine,14,207236000.00,207236000.00,NA,0.95,115,15957,8,NA,NA,NA
